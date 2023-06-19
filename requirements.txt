@@ -1,5 +1,4 @@
 Flask==2.2.2
 Flask-Cors==3.0.10
-Python==3.10.9
 tensorflow==2.10.1
 gensim==4.3.0
